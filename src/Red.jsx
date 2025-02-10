@@ -1,10 +1,10 @@
 const RedColor = () => {
 
-  return(
+  return (
     <>
-    <div className="red">
-      <h1>RED!!!</h1>
-    </div>
+      <div className="red">
+        <h1>RED!!!</h1>
+      </div>
     </>
   );
 }
